@@ -1,8 +1,12 @@
 <h1 align="left">Hi 👋! My name is Sravan Kumar Dabbi and Passionate to learn new technologies.</h1>
 
 ###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sravankumardabbi001.Sravankumardabbi001&left_color=blueviolet&right_color=blue"  />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravankumardabbi001" alt="sravankumardabbi001" /> </a> </p>
 
-<p align="left">● 🌱 I’m currently learning DevOps<br>● 👯 I’m looking to collaborate on Cloud native projects<br>● 🔭 I’m running with challange #90daysDevops<br>● 💬 Ask me about DevOps<br>● 📫 How to reach me: sravankumardabbi001@gmail.com<br>● ⚡Motivate Myself : "Opportunities don't happen.You create them."</p>
+
+
+<p align="left">● 🌱 I’m currently learning <b>DevOps</b><br>● 👯 I’m looking to collaborate on <b>Cloud native projects</b><br>● 🔭 I’m running with challange <b>#90daysDevops</b><br>● 💬 Ask me about <b>DevOps</b><br>● 📫 How to reach me: <a href="gmail.com">sravankumardabbi001@gmail.com</a><br>● ⚡Motivate Myself : <i><b>"Opportunities don't happen.You create them."</b></i></p>
 
 ###
 
@@ -88,7 +92,7 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sravankumardabbi001.Sravankumardabbi001&left_color=blueviolet&right_color=blue"  />
+
 
 ###
 
@@ -98,8 +102,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sravankumardabbi001/Sravankumardabbi001/output/snake.svg" alt="Snake animation" />
-
-###
