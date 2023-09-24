@@ -6,7 +6,7 @@
 
 
 
-<p align="left">● 🌱 I’m currently learning <b>DevOps</b><br>● 👯 I’m looking to collaborate on <b>Cloud native projects</b><br>● 🔭 I’m running with challange <b>#90daysDevops</b><br>● 💬 Ask me about <b>DevOps</b><br>● 📫 How to reach me: <a href="gmail.com">sravankumardabbi001@gmail.com</a><br>● ⚡Motivate Myself : <i><b>"Opportunities don't happen.You create them."</b></i></p>
+<p align="left">● 🌱 I’m currently learning <b>DevOps</b><br>● 👯 I’m looking to collaborate on <b>Cloud native projects</b><br>● 🔭 I’m running with challange <b>#90daysDevops</b><br>● 💬 Ask me about <b>DevOps</b><br>● 📫 How to reach me: <a href="http://gmail.com/">sravankumardabbi001@gmail.com</a><br>● ⚡Motivate Myself : <i><b>"Opportunities don't happen.You create them."</b></i></p>
 
 ###
 
